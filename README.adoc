@@ -1,7 +1,9 @@
 = Projeto de Sistema Bancário para Inclusão de Testes Unitários
 
+[![Build Status](https://img.shields.io/travis/miyaharakun/sistema-bancario/master.svg)](https://travis-ci.org/miyaharakun/sistema-bancario)
+
 Este projeto fornece um conjunto de classes base para que sejam implementados um
-conjunto de testes unitários.
+conjunto de testes unitários..
 
 As classes do sistema são apresentadas no diagrama UML abaixo.
 O diagrama pode ser editado no arquivo link:sistema-bancario.staruml.mdj[sistema-bancario.staruml.mdj],
