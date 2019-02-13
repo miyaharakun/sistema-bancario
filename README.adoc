@@ -1,6 +1,6 @@
 = Projeto de Sistema Bancário para Inclusão de Testes Unitários
 
-https://travis-ci.org/miyaharakun/sistema-bancario
+image:https://img.shields.io/travis/miyaharakun/sistema-bancario.svg?style=flat
 
 Este projeto fornece um conjunto de classes base para que sejam implementados um
 conjunto de testes unitários..
